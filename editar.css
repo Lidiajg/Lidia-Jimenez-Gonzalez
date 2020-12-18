@@ -1,0 +1,97 @@
+body{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    background-color: rgba(252, 229, 127, 0.685);
+}
+h2{
+    text-align: center;
+    background-color:dimgrey;
+    font-size: 175%;
+
+}
+h1{
+    text-align: center;
+
+}
+body img{
+    width: 25%;
+    height: 200px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+    display:block;
+    margin:auto;
+
+} h4,h6{
+    text-align: center;
+}
+
+header img{
+    width: 25%;
+    height: 150px;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+}
+.menu ul{   
+    list-style: none ;
+    margin-left: 0%;
+    margin-right: 0%;
+    margin-top: 10px;
+    border: 0px;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 150px;
+    background-color: rgb(133, 4, 32);
+    
+}
+
+.maquina img{
+    width: 25%;
+    height: 150px;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+
+}
+
+.menu ul li{
+    display: inline-block;
+    margin: 1em;
+    padding: 1em;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    background-color: rgba(138, 133, 137, 0.959);
+    color: rgb(10, 10, 10);
+    border-right: 2px solid black;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 12px;
+    padding-left: 12px;
+
+
+}
+
+ 
+
+    table{
+        border-collapse:separate;
+        margin-left: 50%;
+        margin-right: 50%;
+        background-color: rgba(211, 120, 203, 0.678);
+        text-align: center;
+        
+    }
+    
+    th, td{
+        border: solid 5px;  
+        
+    }
+    
+
